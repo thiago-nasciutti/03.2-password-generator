@@ -25,7 +25,7 @@ Generate a random password based on criteria you selected.
 https://thiago-nasciutti.github.io/password-generator/
 
 ## Github
-https://github.com/thiago-nasciutti/password
+https://github.com/thiago-nasciutti/password-generator
 
 ## Technologies
 <img src="./Assets/images/technologies/html.png" width="30">   <img src="./Assets/images/technologies/css.png" width="30">   <img src="./Assets/images/technologies/js-logo.png" width="30"> <img src="./Assets/images/technologies/github.png" width="35">

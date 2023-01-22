@@ -16,9 +16,9 @@ Generate a random password based on criteria you selected.
 
 ## Visuals
 
-<img width="500" src="./assets/images/screenshots/screenshot1.png">
+<img width="500" src="./Assets/images/screenshots/screenshot1.png">
 
-<img width="500" src="./assets/images/screenshots/screenshot2.png">
+<img width="500" src="./Assets/images/screenshots/screenshot2.png">
 
 
 ## Deploy

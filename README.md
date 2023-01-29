@@ -9,6 +9,7 @@
  * [Technologies](#technologies)
  * [Support](#support)
  * [Author](#author)
+ * [Linkedin](#linkedin)
 
 ## Description
 
@@ -35,6 +36,9 @@ nasciutti.thiago@gmail.com
 
 ## Author
 Thiago Borges Nasciutti
+
+##Linkedin
+https://www.linkedin.com/in/thiago-nasciutti/
 
 
 
